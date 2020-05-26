@@ -35,10 +35,82 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Senior Technical Specialist"
   company = "KPN Werkplek"
-  company_url = "https://kpn.com/zakelijk"
+  # company_url = "https://kpn.com/zakelijk"
   location = "Groningen"
   date_start = "2020-01-01"
   date_end = "2020-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Technical Specialist"
+  company = "KPN Werkplek (ApplicationNet B.V.)"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Groningen"
+  date_start = "2010-09-06"
+  date_end = "2020-01-01"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Technical Specialist"
+  company = "Brunel @ Getronics"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Groningen"
+  date_start = "2001-01-01"
+  date_end = "2005-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Technical Specialist"
+  company = "NeoMax"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Almere"
+  date_start = "2001-01-01"
+  date_end = "2005-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Technical Specialist"
+  company = "C2ICT"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Gouda"
+  date_start = "2001-01-01"
+  date_end = "2005-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Technical Specialist"
+  company = "Login Consultants"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Gouda / Amsterdam"
+  date_start = "2001-01-01"
+  date_end = "2005-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Technical Specialist"
+  company = "Inter Access"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Hilversum / Almere / Leiden"
+  date_start = "2001-01-01"
+  date_end = "2005-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Intern"
+  company = "BVE Raad"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Bilthoven"
+  date_start = "2001-01-01"
+  date_end = "2005-03-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
+[[experience]]
+  title = "Intern"
+  company = "SUN Microsystems"
+  # company_url = "https://kpn.com/zakelijk"
+  location = "Amersfoort"
+  date_start = "1999-01-01"
+  date_end = "2000-03-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
